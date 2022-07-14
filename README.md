@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petit kitsune
-- 👀 I’m interested in Data 
-- 🌱 I’m currently learning SQL , Tableau
+- 👀 I’m interested in Data , a lot of data 
+- 🌱 I’m currently learning Advanced SQL , Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
