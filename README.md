@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @petit kitsune
+🫡 About me in 30 secondes ! 
+
+- 👋 Hi, I’m @Chris 
 - 👀 I’m interested in Data , a lot of data 
 - 🌱 I’m currently learning Advanced SQL , Tableau
 - 💞️ I’m looking to collaborate on ...
